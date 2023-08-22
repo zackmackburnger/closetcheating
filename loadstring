@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zackmackburnger/closetcheating/main/NewMainScript.lua", true))()
